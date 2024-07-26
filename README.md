@@ -22,4 +22,4 @@ The Currency Converter is a web application that allows users to convert amounts
 
 ## Live Demo
 
-You can view and interact with the live version of this project at: [Live Demo](https://example.com](https://ayuubkhan.github.io/Currency-Convertor/) 
+You can view and interact with the live version of this project at: [Live Demo](https://ayuubkhan.github.io/Currency-Convertor/) 
