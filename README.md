@@ -19,3 +19,7 @@ The Currency Converter is a web application that allows users to convert amounts
 - **JavaScript:** Handles the logic for fetching exchange rates and updating the interface dynamically.
 - **API:** Utilizes the Currency API to fetch the latest currency data.
 - **FontAwesome:** Provides the swap icon for improved visual feedback.
+
+## Live Demo
+
+You can view and interact with the live version of this project at: [Live Demo](https://example.com](https://ayuubkhan.github.io/Currency-Convertor/) 
