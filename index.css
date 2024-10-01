@@ -88,9 +88,9 @@ form input {
     transition: transform 0.3s ease;
 }
 
-.swap-icon:hover {
+/* .swap-icon:hover {
     transform: rotate(180deg);
-}
+} */
 
 .msg {
     margin: 2rem 0;

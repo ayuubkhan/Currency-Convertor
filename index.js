@@ -73,6 +73,10 @@ btn.addEventListener("click", async (evt) => {
 
 
 swapIcon.addEventListener("click", () => {
+
+    const currentRotation = swapIcon.style.transform;
+    swapIcon.style.transform = currentRotation === "rotate(180deg)" ? "rotate(0deg)" : "rotate(180deg)";
+
     const tempValue = fromCurr.value;
     fromCurr.value = toCurr.value;
     toCurr.value = tempValue;
